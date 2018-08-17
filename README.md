@@ -1,2 +1,3 @@
 # TicTacToe
-basic cpp game
+basic c game
+
